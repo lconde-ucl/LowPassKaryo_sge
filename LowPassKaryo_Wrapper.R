@@ -2,7 +2,7 @@
 
 
 ##This will need to be customised to the site:
-SITE.CONFIG.FILE <- "/shared/ucl/depts/cancer/apps/LowPassKaryo/2021_01_20_b1d9dfd/LowPassKaryo-master/SRC/config.R" ##</absolute/path/to/config.R>
+SITE.CONFIG.FILE <- "/shared/ucl/depts/cancer/apps/LowPassKaryo/2021_01_20_b1d9dfd/LowPassKaryo_sge/SRC/config.R" ##</absolute/path/to/config.R>
 source(SITE.CONFIG.FILE)
 
 				###
