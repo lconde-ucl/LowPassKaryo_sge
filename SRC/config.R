@@ -22,12 +22,12 @@
 CONTACT.ADDRESS <- "l.conde@ucl.ac.uk" ##this email address will be included at the top of the report file as a first point of contact for queries.
 
 ##central source directory
-SOURCE.DIR <- "/shared/ucl/depts/cancer/apps/LowPassKaryo/2021_01_20_b1d9dfd/LowPassKaryo-master/SRC/" ##absolute path to the directory containing the source files - by default it will be the directory containing this file
+SOURCE.DIR <- "/shared/ucl/depts/cancer/apps/LowPassKaryo/2021_01_20_b1d9dfd/LowPassKaryo_sge/SRC/" ##absolute path to the directory containing the source files - by default it will be the directory containing this file
 
 
 ##need to document the script to generate this (or at least the file format)
 ##Absolute path to the genome lookup file -- see SetUp for details of the appropriate format for this file
-GENOMES.LOOKUP.FILE <- "/shared/ucl/depts/cancer/apps/LowPassKaryo/2021_01_20_b1d9dfd/LowPassKaryo-master/SRC/genome_lookup_table_myriad.txt" ##
+GENOMES.LOOKUP.FILE <- "/shared/ucl/depts/cancer/apps/LowPassKaryo/2021_01_20_b1d9dfd/LowPassKaryo_sge/SRC/genome_lookup_table_myriad.txt" ##
 
 
 
