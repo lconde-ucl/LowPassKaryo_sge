@@ -1,6 +1,6 @@
 
 
-
+__NOTE:__ This is a fork of the [LowPassKaryo](https://github.com/crickbabs/LowPassKaryo) pipeline, modified to work on our grid engine cluster
 
 
 ## Introduction
