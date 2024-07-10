@@ -1,6 +1,13 @@
 
 
-__NOTE:__ This is a fork of the [LowPassKaryo](https://github.com/crickbabs/LowPassKaryo) pipeline, modified to work on our grid engine cluster
+__NOTE:__ This is a fork of the [LowPassKaryo](https://github.com/crickbabs/LowPassKaryo) pipeline, modified to work on our grid engine cluster (myriad). To use it in myriad, load the relevant modules and run it as follows:
+
+```
+module load blic-modules
+module load LowPassKaryo
+
+LowPassKaryo_Wrapper.R --design design_template_file.txt
+```
 
 
 ## Introduction
